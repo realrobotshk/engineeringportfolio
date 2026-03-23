@@ -16,10 +16,7 @@ My interests include full-stack development, automation, and building tools that
 
 ## Featured Projects
 
-> Add one section per project.  
-> Store project images in the `images/` folder and reference them with relative paths.
-
-### 1) Lego Robot Components
+### 1) Lego Robot Components 
 
 ![Project Name Screenshot](images/legobot/combined.jpg)
 
@@ -28,34 +25,18 @@ A series of custom eleoctronics components and 3d printed housings designed to b
 
 ---
 
-### 2) Project Name
+### 2) Custom macroboards (contract)
 
-![Project Name Screenshot](images/project-2.png)
+![Project Name Screenshot](images/trackgear/combined.jpg)
 
-**What it is:**  
-Short description of the project and the problem it solves.
-
-**What I built:**  
-- [Key feature 1]
-- [Key feature 2]
-- [Key feature 3]
-
-**Tech used:**  
-`[Framework]` `[`Language`]` `[`Database`]` `[`Cloud/Tooling`]`
-
-**Impact / Results:**  
-- [Example: Increased user retention]
-- [Example: Automated a manual workflow]
-
-**Links:**  
-- Live Demo: [Add link]
-- Source Code: [Add link]
+Various custom macrokeyboards from 160 keys to 64. STM32 microcontroller, custom firmware designed to work with a self hosted fork of the VIA online keyboard configurator. 
 
 ---
 
 ### 3) Project Name
 
-![Project Name Screenshot](images/project-3.png)
+![Project Name Screenshot](images/lifts4life/liftcontrollerv2.png)
+![Project Name Screenshot](images/lifts4life/motor_controller.jpg)
 
 **What it is:**  
 Short description of the project and the problem it solves.
