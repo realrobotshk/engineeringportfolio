@@ -19,28 +19,12 @@ My interests include full-stack development, automation, and building tools that
 > Add one section per project.  
 > Store project images in the `images/` folder and reference them with relative paths.
 
-### 1) Project Name
+### 1) Lego Robot Components
 
-![Project Name Screenshot](images/legobot/pcb.png)
+![Project Name Screenshot](images/legobot/combined.jpg)
 
-**What it is:**  
-Short description of the project and the problem it solves.
+A series of custom eleoctronics components and 3d printed housings designed to be compatible with lego Technic systems. Main component is an ESP32S2 main board with 4 motor drivers, speaker, and connections for 2 i2c channels, 5 servos, and other gpios broken out
 
-**What I built:**  
-- [Key feature 1]
-- [Key feature 2]
-- [Key feature 3]
-
-**Tech used:**  
-`[Framework]` `[`Language`]` `[`Database`]` `[`Cloud/Tooling`]`
-
-**Impact / Results:**  
-- [Example: Reduced processing time by 40%]
-- [Example: Improved deployment reliability]
-
-**Links:**  
-- Live Demo: [Add link]
-- Source Code: [Add link]
 
 ---
 
